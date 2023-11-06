@@ -358,14 +358,32 @@ if mode == 'division':
     division(level)
 
 elif mode == 'subtraction':
+    print('''                             Welcome to Subtraction!
+                       Division levels go from 1 to 2
+    To move on to harder levels, you must answer 10 questions correctly in a row.
+        Type in the letter choice that you think contains the correct answer.
+                                Good Luck!
+                                ''')
     level = int(input ("Level 1 or 2? ", ))
     subtract(level)
 
 elif mode == 'multiplication':
+    print('''                             Welcome to Multiplication!
+                       Division levels go from 1 to 2
+    To move on to harder levels, you must answer 10 questions correctly in a row.
+        Type in the letter choice that you think contains the correct answer.
+                                Good Luck!
+                                ''')
     level = int(input ("Level 1 or 2? ", ))
     multiply(level)
     
 elif mode == 'addition':
+    print('''                             Welcome to Addition!
+                       Division levels go from 1 to 2
+    To move on to harder levels, you must answer 10 questions correctly in a row.
+        Type in the letter choice that you think contains the correct answer.
+                                Good Luck!
+                                ''')
     add()
 else:
     print('Check spelling of mode and try again. Make sure it matches the choices above exactly!')
