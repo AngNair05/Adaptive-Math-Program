@@ -359,7 +359,7 @@ if mode == 'division':
 
 elif mode == 'subtraction':
     print('''                             Welcome to Subtraction!
-                       Division levels go from 1 to 2
+                       Subtraction levels go from 1 to 2
     To move on to harder levels, you must answer 10 questions correctly in a row.
         Type in the letter choice that you think contains the correct answer.
                                 Good Luck!
@@ -369,7 +369,7 @@ elif mode == 'subtraction':
 
 elif mode == 'multiplication':
     print('''                             Welcome to Multiplication!
-                       Division levels go from 1 to 2
+                       Multiplication levels go from 1 to 2
     To move on to harder levels, you must answer 10 questions correctly in a row.
         Type in the letter choice that you think contains the correct answer.
                                 Good Luck!
@@ -379,7 +379,7 @@ elif mode == 'multiplication':
     
 elif mode == 'addition':
     print('''                             Welcome to Addition!
-                       Division levels go from 1 to 2
+                       Addition levels go from 1 to 2
     To move on to harder levels, you must answer 10 questions correctly in a row.
         Type in the letter choice that you think contains the correct answer.
                                 Good Luck!
